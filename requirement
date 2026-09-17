@@ -1,0 +1,9 @@
+Software Requirements:
+- Microsoft Power BI Desktop
+- Microsoft Excel or a compatible spreadsheet application
+
+Technical Requirements:
+- Power Query
+- DAX (Data Analysis Expressions)
+
+No external Python libraries are required for this project.

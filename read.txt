@@ -1,1 +1,32 @@
-order dashboard 
+PROJECT OVERVIEW
+This project presents an interactive Power BI dashboard developed to analyze order trends and overall business performance. The dashboard transforms raw order data into meaningful insights related to orders, customers, shipping modes, customer segments, product categories, and regional performance.
+OBJECTIVES
+- Analyze the total number of unique orders.
+- Identify the top customers based on order frequency.
+- Analyze order distribution across customer segments.
+- Compare orders across different regions.
+- Analyze the usage of different shipping modes.
+- Identify monthly order trends.
+- Analyze sales performance by product category.
+
+KEY PERFORMANCE INDICATORS
+- Total Orders
+- Total Sales
+- Total Profit
+- Total Quantity
+- Average Order Value
+- Total Customers
+
+
+
+DASHBOARD VISUALIZATIONS
+1. Orders by Ship Mode
+2. Top 5 Customers by Orders
+3. Orders by Segment
+4. Sales by Category
+5. Monthly Order Trend
+6. Orders by Region
+
+AUTHOR
+Anusuya R
+Aspiring Data Analyst
